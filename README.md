@@ -40,9 +40,11 @@ I specialize in building **modern web applications** that are fast, secure, and 
 ## 🌍 **Projects Showcase**:
 
 ### 📋 **Notable Projects**:
-- **Saidur's To-Do App**: A task management application built using MERN stack.
+- **Easy Shop**: a full-fledged e-commerce website with all features.
 - **Doctors Portal**: A health platform with user login, appointment scheduling, and admin panel.
 - **E-commerce Web App**: A full-featured online store with payment integration.
+- **Saidur's To-Do App**: A task management application built using MERN stack.
+
 
 I take pride in delivering projects that are optimized for performance, security, and scalability. Check out my [GitHub Repositories](https://github.com/shaonbd135) for more!
 
@@ -55,7 +57,7 @@ I take pride in delivering projects that are optimized for performance, security
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaonbd135&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 **My GitHub Trophies**:
 ![](https://github-profile-trophy.vercel.app/?username=shaonbd135&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🏆 **Top Languages**:
@@ -66,10 +68,9 @@ I take pride in delivering projects that are optimized for performance, security
 ---
 
 ## 📬 **Let's Connect**:
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- 💬 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
+- 📧 **Email**: [shaonsimt@gmail.com](mailto:shaonsimt@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/saidurshaon](https://www.linkedin.com/in/saidurshaon)
+
 
 ---
 
