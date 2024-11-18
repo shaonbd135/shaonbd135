@@ -52,8 +52,11 @@ I take pride in delivering projects that are optimized for performance, security
 
 ### 📊 **My GitHub Stats**:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaonbd135&show_icons=true&count_private=true&theme=dark&hide_title=true&hide=prs" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaonbd135&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+![](https://github-profile-trophy.vercel.app/?username=shaonbd135&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </p>
 
 ### 🏆 **Top Languages**:
