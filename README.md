@@ -40,7 +40,7 @@ I specialize in building **modern web applications** that are fast, secure, and 
 ## 🌍 **Projects Showcase**:
 
 ### 📋 **Notable Projects**:
-- **Easy Shop**: a full-fledged e-commerce website with all features.
+- **Easy Shop**: A full-fledged e-commerce website with all features.
 - **Doctors Portal**: A health platform with user login, appointment scheduling, and admin panel.
 - **E-commerce Web App**: A full-featured online store with payment integration.
 - **Saidur's To-Do App**: A task management application built using MERN stack.
