@@ -1,66 +1,87 @@
-<h1 align="center">Hi, I'm Saidur Rahaman 👋</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer Specializing in the MERN Stack</h3>
+# 👨‍💻 **Saidur Rahaman** | Full-Stack Web Developer 💻
+### 🚀 **Crafting Exceptional Web Experiences with MERN Stack**
 
 ---
 
-### 🚀 About Me
-I am a dedicated **full-stack web developer** with a proven track record of delivering high-quality web applications. I specialize in building modern, scalable, and user-friendly solutions using the latest web technologies.
-
-- 🌟 I excel in creating seamless **front-end** experiences with **React.js**.
-- 🛠️ I develop efficient and robust **back-end APIs** with **Node.js** and **Express.js**.
-- 💾 Skilled in database management with **MongoDB** and SQL.
-- 🎨 Passionate about **responsive design**, ensuring your app looks stunning on any device.
+<h3 align="center">
+  I'm a passionate and results-driven Full-Stack Web Developer with a focus on delivering high-quality applications and user-centric design.
+</h3>
 
 ---
 
-### 🔧 My Technical Toolkit:
-#### Languages & Frameworks
+## 🌟 **What I Do**:
+I specialize in building **modern web applications** that are fast, secure, and scalable. From creating stunning **UI** to designing robust **back-end systems**, I ensure seamless integration between front-end and back-end technologies.
+
+- 🌐 **MERN Stack Development**: Expert in **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
+- 🧩 **Custom Web Apps**: I create tailor-made solutions for e-commerce, social platforms, and business tools.
+- 📱 **Responsive Design**: Ensuring your app works flawlessly on any device.
+- 🔒 **Authentication & Security**: Implementing robust authentication and security measures.
+
+---
+
+## 🚀 **Technical Skills**:
+
+### **Languages & Frameworks**:
 - **JavaScript (ES6+), HTML5, CSS3**
 - **React.js, Redux, Context API**
 - **Node.js, Express.js**
-- **MongoDB**
+- **MongoDB**, **SQL**, **REST APIs**
+- **Material UI**, **Bootstrap**, **Tailwind CSS**
 
-#### Tools & Platforms
-- **Git, GitHub, VS Code**
-- **Material UI, Bootstrap**
-- **RESTful APIs**
-- **WordPress, PHP**
-
-#### Other Skills
-- Responsive Web Design 🌐
-- API Development & Integration 🛠️
-- Version Control Systems 📂
-- CMS Development 📝
+### **Tools & Platforms**:
+- **Git & GitHub** (Version Control)
+- **Heroku, Vercel, Netlify** (Deployment)
+- **JWT** (Authentication)
+- **WordPress**, **PHP** (CMS Development)
+- **Figma, Adobe XD** (Design Tools)
 
 ---
 
-### 🌟 My Services:
-1. **Full-Stack Web Development**: From concept to deployment.
-2. **Custom Web Applications**: Tailored to meet your unique requirements.
-3. **Responsive Design**: Ensuring flawless performance across all devices.
-4. **API Development**: Creating secure and scalable APIs.
-5. **Technical Consulting**: Offering strategic guidance for your web projects.
-6. **Ongoing Maintenance**: Keeping your websites updated and secure.
+## 🌍 **Projects Showcase**:
+
+### 📋 **Notable Projects**:
+- **Saidur's To-Do App**: A task management application built using MERN stack.
+- **Doctors Portal**: A health platform with user login, appointment scheduling, and admin panel.
+- **E-commerce Web App**: A full-featured online store with payment integration.
+
+I take pride in delivering projects that are optimized for performance, security, and scalability. Check out my [GitHub Repositories](https://github.com/shaonbd135) for more!
 
 ---
 
-### 📈 GitHub Stats:
+## 🌈 **GitHub Stats & Metrics**:
 
+### 📊 **My GitHub Stats**:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaonbd135&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaonbd135&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaonbd135&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaonbd135&show_icons=true&count_private=true&theme=dark&hide_title=true&hide=prs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaonbd135&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
+### 🏆 **Top Languages**:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaonbd135&layout=compact&theme=dark&hide=html" alt="Top Languages" width="48%" />
+</p>
+
 ---
 
-### 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 📫 Email: shaonsimt@gmail.com
+## 📬 **Let's Connect**:
+- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+- 💬 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
 
 ---
 
-### 💡 Fun Fact:
-When I’m not coding, you can find me exploring new technologies, watching tech documentaries, or brainstorming the next big idea!
+### 📢 **Current Focus**:
+I’m always open to collaborating on exciting new projects. Feel free to reach out for **freelance work**, **consultations**, or just a friendly chat about web development!
+
+---
+
+### ✨ **Fun Fact**:
+In my free time, I enjoy learning about new tech trends, contributing to open-source projects, and sharing knowledge with the development community. Always striving to push the boundaries of innovation!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaonbd135&label=Profile+Views&color=brightgreen" alt="Profile Views"/>
+</p>
+
