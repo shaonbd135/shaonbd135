@@ -1,17 +1,8 @@
 ## Hi there 👋
-I'm Saidur Rahaman!<br>
+# I'm Saidur Rahaman!<br>
 
 # 💫 About Me:
-
-I'm a passionate Full-Stack Web Developer with a focus on creating exceptional web experiences. With expertise in React, Node.js, MongoDB, and Express, I specialize in developing scalable and responsive web applications.<br><br>
-
-✨ What I Do:<br>
-
-Develop responsive, user-friendly web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).<br>
-Build secure and efficient APIs to facilitate smooth communication between applications.<br>
-Design and implement beautiful, intuitive user interfaces with HTML5, CSS3, JavaScript, Bootstrap, and Material UI.<br>
-Work with clients to turn their ideas into reality through effective communication and collaboration.<br><br>
-📌 Skills:<br> ✔️ React.js<br> ✔️ Node.js<br> ✔️ Express.js<br> ✔️ MongoDB<br> ✔️ JavaScript (ES6+)<br> ✔️ HTML5, CSS3<br> ✔️ Bootstrap, Material UI<br> ✔️ RESTful APIs<br> ✔️ Git version control<br> ✔️ Responsive web design<br> ✔️ WordPress<br><br>
+I am a Professional Full-Stack Web Developer focused on creating exceptional web experiences. With expertise in React, Node.js, MongoDB, and Express, I specialize in developing scalable and responsive web applications.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saidurshaon) 
@@ -30,5 +21,3 @@ Work with clients to turn their ideas into reality through effective communicati
 
 ---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
