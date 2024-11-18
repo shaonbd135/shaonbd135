@@ -1,10 +1,9 @@
 ## Hi there 👋
-
+I'm Saidur Rahaman!<br>
 
 # 💫 About Me:
-I'm Saidur Rahaman!<br><br>
 
-As a Full-Stack Web Developer, I build modern, efficient, and scalable web applications. My passion is creating seamless user experiences by combining clean design with robust functionality. With expertise in both front-end and back-end development, I am dedicated to delivering projects that exceed expectations.<br><br>
+I'm a passionate Full-Stack Web Developer with a focus on creating exceptional web experiences. With expertise in React, Node.js, MongoDB, and Express, I specialize in developing scalable and responsive web applications.<br><br>
 
 ✨ What I Do:<br>
 
@@ -13,7 +12,6 @@ Build secure and efficient APIs to facilitate smooth communication between appli
 Design and implement beautiful, intuitive user interfaces with HTML5, CSS3, JavaScript, Bootstrap, and Material UI.<br>
 Work with clients to turn their ideas into reality through effective communication and collaboration.<br><br>
 📌 Skills:<br> ✔️ React.js<br> ✔️ Node.js<br> ✔️ Express.js<br> ✔️ MongoDB<br> ✔️ JavaScript (ES6+)<br> ✔️ HTML5, CSS3<br> ✔️ Bootstrap, Material UI<br> ✔️ RESTful APIs<br> ✔️ Git version control<br> ✔️ Responsive web design<br> ✔️ WordPress<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saidurshaon) 
@@ -31,6 +29,6 @@ Work with clients to turn their ideas into reality through effective communicati
 ![](https://github-contributor-stats.vercel.app/api?username=shaonbd135&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shaonbd135&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
