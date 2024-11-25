@@ -68,7 +68,7 @@ I take pride in delivering projects that are optimized for performance, security
 ---
 
 ## 📬 **Let's Connect**:
-- 📧 **Email**: [shaonsimt@gmail.com](mailto:shaonsimt@gmail.com)
+- 📧 **Email**: [saidur.webdev@gmail.com](mailto:saidur.webdev@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/saidurshaon](https://www.linkedin.com/in/saidurshaon)
 
 
