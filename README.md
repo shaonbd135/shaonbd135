@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 **What I Do**:
-I specialize in building **modern web applications** that are fast, secure, and scalable. From creating stunning **UI** to designing robust **back-end systems**, I ensure seamless integration between front-end and back-end technologies.
+I specialize in building **modern web applications and websites** that are fast, secure, and scalable. From creating stunning **UI** to designing robust **back-end systems**, I ensure seamless integration between front-end and back-end technologies.
 
 - 🌐 **MERN Stack Development**: Expert in **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
 - 🧩 **Custom Web Apps**: I create tailor-made solutions for e-commerce, social platforms, and business tools.
