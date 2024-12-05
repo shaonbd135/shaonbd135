@@ -4,7 +4,7 @@
 ---
 
 <h3 align="center">
-  I'm a passionate and results-driven Full-Stack Web Developer with a focus on delivering high-quality applications and user-centric design.
+  I'm a passionate and results-driven Full-Stack Web Developer with a focus on delivering high-quality websites and web applications and user-centric design.
 </h3>
 
 ---
